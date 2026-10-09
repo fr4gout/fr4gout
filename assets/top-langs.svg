@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-label="Most Used Languages: Lua 49.69%, TypeScript 23.90%, JavaScript 15.23%, Svelte 3.91%, HTML 3.61%, CSS 2.11%">
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .l { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+  </style>
+  <rect x="0.5" y="0.5" width="466" height="194" rx="4.5" fill="#1a1b27"/>
+  <text x="25" y="35" class="t">Most Used Languages</text>
+  <clipPath id="bar"><rect x="25" y="55" width="417" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="25"    y="55" width="417"   height="8" fill="#3b4261"/>
+    <rect x="25"    y="55" width="207.2" height="8" fill="#4f5bd5"/>
+    <rect x="232.2" y="55" width="99.7"  height="8" fill="#3178c6"/>
+    <rect x="331.9" y="55" width="63.5"  height="8" fill="#f1e05a"/>
+    <rect x="395.4" y="55" width="16.3"  height="8" fill="#ff3e00"/>
+    <rect x="411.7" y="55" width="15.1"  height="8" fill="#e34c26"/>
+    <rect x="426.8" y="55" width="8.8"   height="8" fill="#8e6bd1"/>
+  </g>
+  <g class="l">
+    <circle cx="30"  cy="96"  r="5" fill="#4f5bd5"/><text x="43"  y="100">Lua 49.69%</text>
+    <circle cx="240" cy="96"  r="5" fill="#3178c6"/><text x="253" y="100">TypeScript 23.90%</text>
+    <circle cx="30"  cy="124" r="5" fill="#f1e05a"/><text x="43"  y="128">JavaScript 15.23%</text>
+    <circle cx="240" cy="124" r="5" fill="#ff3e00"/><text x="253" y="128">Svelte 3.91%</text>
+    <circle cx="30"  cy="152" r="5" fill="#e34c26"/><text x="43"  y="156">HTML 3.61%</text>
+    <circle cx="240" cy="152" r="5" fill="#8e6bd1"/><text x="253" y="156">CSS 2.11%</text>
+  </g>
+</svg>
