@@ -12,8 +12,8 @@ Currently building with **[SyncLabDev](https://github.com/SyncLabDev)** and **[P
 [![SyncLabDev](https://img.shields.io/badge/Org-SyncLabDev-FF6A00?style=flat-square&logo=github)](https://github.com/SyncLabDev)
 [![ProjectSyncFw](https://img.shields.io/badge/Org-ProjectSyncFw-5865F2?style=flat-square&logo=github)](https://github.com/ProjectSyncFw)
 [![SYNC LAB](https://img.shields.io/badge/SYNC_LAB-Store-FF6A00?style=flat-square)](https://synclab-script-store.tebex.store)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimurnabil/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/XUQunr9DGX)
 
 </div>
 
@@ -81,7 +81,7 @@ Asymmetric wedge UI with an audio player and media engine.
 
 Interested in software development, FiveM systems, interface engineering, or collaborating on useful tools? Let's talk.
 
-LinkedIn · [SYNC LAB](https://synclab-script-store.tebex.store) · Discord
+[LinkedIn](https://www.linkedin.com/in/naimurnabil/) · [SYNC LAB](https://synclab-script-store.tebex.store) · [Discord](https://discord.gg/XUQunr9DGX)
 
 ---
 
