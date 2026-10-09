@@ -73,8 +73,8 @@ Asymmetric wedge UI with an audio player and media engine.
 
 <div align="center">
 
-<img height="180" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4gout&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fr4gout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="195" alt="Most Used Languages" src="assets/top-langs.svg" />
+<img height="195" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fr4gout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=fr4gout&theme=tokyonight&hide_border=true" />
 
