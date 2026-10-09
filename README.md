@@ -6,11 +6,13 @@
 
 I design and build interfaces that hold up under real use — FiveM resources, React-based NUI systems, and web products where engineering and design are the same decision, not two handoffs.
 
-Currently building **SYNC LAB**, a development brand delivering well-engineered FiveM resources with product-grade UX.
+Currently building with **[SyncLabDev](https://github.com/SyncLabDev)** and **[ProjectSyncFw](https://github.com/ProjectSyncFw)**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-fr4gout-181717?style=flat-square&logo=github)](https://github.com/fr4gout)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![SyncLabDev](https://img.shields.io/badge/Org-SyncLabDev-FF6A00?style=flat-square&logo=github)](https://github.com/SyncLabDev)
+[![ProjectSyncFw](https://img.shields.io/badge/Org-ProjectSyncFw-5865F2?style=flat-square&logo=github)](https://github.com/ProjectSyncFw)
 [![SYNC LAB](https://img.shields.io/badge/SYNC_LAB-Store-FF6A00?style=flat-square)](https://synclab-script-store.tebex.store)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
 
 </div>
@@ -27,21 +29,26 @@ Currently building **SYNC LAB**, a development brand delivering well-engineered 
 | Product Design | UI/UX, design systems, visual consistency |
 | Development Practices | Maintainability, performance, practical documentation |
 
-## 02 / Selected Work
+## 02 / Organizations
 
-**SYNC LAB** — FiveM Resources & Software Development
-Building resources for FiveM communities with an emphasis on usability, performance, and cohesive product design.
-→ Explore my repositories for SYNC LAB resources.
+**[SyncLabDev](https://github.com/SyncLabDev)** — SYNC LAB
+Development brand delivering well-engineered FiveM resources with product-grade UX: notifications, interaction UI, loading screens, HUDs, and the storefront behind them.
 
-**SYNC Notify** — FiveM Notification System
-An open-source project within the SYNC LAB ecosystem.
-→ Explore my repositories for current development work.
+**[ProjectSyncFw](https://github.com/ProjectSyncFw)** — Project Sync Framework
+The `sync_*` resource framework and the roleplay server systems built on it: jobs, banking, vehicles, EMS, dispatch tooling, and more.
 
-**ProjectSyncFw** — Development Framework
-A framework project within my ongoing software development work.
-→ Explore my repositories for current development work.
+## 03 / Selected Work
 
-## 03 / Technology
+**[SYNC Notify](https://github.com/SyncLabDev/sync_notify)** — Notification framework for FiveM
+Production-ready stacks, actions, themes, and sounds.
+
+**[SYNC TextUI](https://github.com/SyncLabDev/sync_textui)** — Interaction UI engine for FiveM
+A free interaction UI that goes beyond a plain `[E] Interact` prompt.
+
+**[SYNC Loading](https://github.com/SyncLabDev/sync_loadingV1)** — Cinematic loading screen
+Asymmetric wedge UI with an audio player and media engine.
+
+## 04 / Technology
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -54,14 +61,14 @@ A framework project within my ongoing software development work.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=cfx&logoColor=white)
 
-## 04 / Design Principles
+## 05 / Design Principles
 
 - **Purpose over decoration** — every interface element should serve a clear function.
 - **Performance by design** — efficient implementations and thoughtful resource usage.
 - **Consistency at every layer** — coherent interfaces, reusable patterns, maintainable code.
 - **Built for real use** — practical features, clear documentation, reliable user experiences.
 
-## 05 / GitHub Stats
+## 06 / GitHub Stats
 
 <div align="center">
 
@@ -70,7 +77,7 @@ A framework project within my ongoing software development work.
 
 </div>
 
-## 06 / Connect
+## 07 / Connect
 
 Interested in software development, FiveM systems, interface engineering, or collaborating on useful tools? Let's talk.
 
