@@ -20,7 +20,7 @@ Currently building with **[SyncLabDev](https://github.com/SyncLabDev)** and **[P
 
 ---
 
-## 01 / Engineering Focus
+## Engineering Focus
 
 | Area | Focus |
 | --- | --- |
@@ -30,7 +30,7 @@ Currently building with **[SyncLabDev](https://github.com/SyncLabDev)** and **[P
 | Product Design | UI/UX, design systems, visual consistency |
 | Development Practices | Maintainability, performance, practical documentation |
 
-## 02 / Organizations
+## Organizations
 
 **[SyncLabDev](https://github.com/SyncLabDev)** — SYNC LAB ([synclabscript.dev](https://synclabscript.dev/))
 Development brand delivering well-engineered FiveM resources with product-grade UX: notifications, interaction UI, loading screens, HUDs, and the storefront behind them.
@@ -38,7 +38,7 @@ Development brand delivering well-engineered FiveM resources with product-grade 
 **[ProjectSyncFw](https://github.com/ProjectSyncFw)** — Project Sync Framework
 The `sync_*` resource framework and the roleplay server systems built on it: jobs, banking, vehicles, EMS, dispatch tooling, and more.
 
-## 03 / Selected Work
+## Selected Work
 
 **[SYNC Notify](https://github.com/SyncLabDev/sync_notify)** — Notification framework for FiveM
 Production-ready stacks, actions, themes, and sounds.
@@ -49,7 +49,7 @@ A free interaction UI that goes beyond a plain `[E] Interact` prompt.
 **[SYNC Loading](https://github.com/SyncLabDev/sync_loadingV1)** — Cinematic loading screen
 Asymmetric wedge UI with an audio player and media engine.
 
-## 04 / Technology
+## Technology
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,14 +62,14 @@ Asymmetric wedge UI with an audio player and media engine.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=cfx&logoColor=white)
 
-## 05 / Design Principles
+## Design Principles
 
 - **Purpose over decoration** — every interface element should serve a clear function.
 - **Performance by design** — efficient implementations and thoughtful resource usage.
 - **Consistency at every layer** — coherent interfaces, reusable patterns, maintainable code.
 - **Built for real use** — practical features, clear documentation, reliable user experiences.
 
-## 06 / GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Asymmetric wedge UI with an audio player and media engine.
 
 </div>
 
-## 07 / Connect
+## Connect
 
 Interested in software development, FiveM systems, interface engineering, or collaborating on useful tools? Let's talk.
 
