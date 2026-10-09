@@ -11,6 +11,7 @@ Currently building with **[SyncLabDev](https://github.com/SyncLabDev)** and **[P
 [![GitHub](https://img.shields.io/badge/GitHub-fr4gout-181717?style=flat-square&logo=github)](https://github.com/fr4gout)
 [![SyncLabDev](https://img.shields.io/badge/Org-SyncLabDev-FF6A00?style=flat-square&logo=github)](https://github.com/SyncLabDev)
 [![ProjectSyncFw](https://img.shields.io/badge/Org-ProjectSyncFw-5865F2?style=flat-square&logo=github)](https://github.com/ProjectSyncFw)
+[![Website](https://img.shields.io/badge/Website-synclabscript.dev-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://synclabscript.dev/)
 [![SYNC LAB](https://img.shields.io/badge/SYNC_LAB-Store-FF6A00?style=flat-square)](https://synclab-script-store.tebex.store)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimurnabil/)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/XUQunr9DGX)
@@ -31,7 +32,7 @@ Currently building with **[SyncLabDev](https://github.com/SyncLabDev)** and **[P
 
 ## 02 / Organizations
 
-**[SyncLabDev](https://github.com/SyncLabDev)** — SYNC LAB
+**[SyncLabDev](https://github.com/SyncLabDev)** — SYNC LAB ([synclabscript.dev](https://synclabscript.dev/))
 Development brand delivering well-engineered FiveM resources with product-grade UX: notifications, interaction UI, loading screens, HUDs, and the storefront behind them.
 
 **[ProjectSyncFw](https://github.com/ProjectSyncFw)** — Project Sync Framework
@@ -81,7 +82,7 @@ Asymmetric wedge UI with an audio player and media engine.
 
 Interested in software development, FiveM systems, interface engineering, or collaborating on useful tools? Let's talk.
 
-[LinkedIn](https://www.linkedin.com/in/naimurnabil/) · [SYNC LAB](https://synclab-script-store.tebex.store) · [Discord](https://discord.gg/XUQunr9DGX)
+[Website](https://synclabscript.dev/) · [LinkedIn](https://www.linkedin.com/in/naimurnabil/) · [SYNC LAB Store](https://synclab-script-store.tebex.store) · [Discord](https://discord.gg/XUQunr9DGX)
 
 ---
 
